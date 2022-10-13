@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [3.1.0](https://github.com/scastellanos77/ntt-demo-2/compare/v3.0.0...v3.1.0) (2022-10-13)
+
+
+### Features
+
+* **resource:** Agrega archivo prueba version 3 ([ec6d7eb](https://github.com/scastellanos77/ntt-demo-2/commit/ec6d7ebf4a4d1584f2541f69f9e5b92a074b6cd4))
+
 # [3.0.0](https://github.com/scastellanos77/ntt-demo-2/compare/v2.0.0...v3.0.0) (2022-10-13)
 
 
