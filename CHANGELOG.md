@@ -1,5 +1,28 @@
 # Semantic Versioning Changelog
 
+# [2.0.0](https://github.com/scastellanos77/ntt-demo-2/compare/v1.0.0...v2.0.0) (2022-10-13)
+
+
+### Code Refactoring
+
+* **resource:** rename useguidedfailure argument on environment resource ([8c731fd](https://github.com/scastellanos77/ntt-demo-2/commit/8c731fdc9a86378e7efc421132209c6adceb000c))
+* **resource:** rename useguidedfailure argument on environment resource ([60059b2](https://github.com/scastellanos77/ntt-demo-2/commit/60059b2ec602543cda35dde56ced89d7ef19de41))
+* **resource:** rename useguidedfailure argument on environment resource ([4ce206d](https://github.com/scastellanos77/ntt-demo-2/commit/4ce206d5c97409b7b07168ee12038ce941353d02))
+
+
+### Features
+
+* **resource:** add new argument to environment resource 2 ([2751892](https://github.com/scastellanos77/ntt-demo-2/commit/2751892c0ab5ab2711f813c9dcc8901229d01343))
+* **resource:** Agrega archivo prueba 3 ([5ac4f16](https://github.com/scastellanos77/ntt-demo-2/commit/5ac4f16a1bcc04e0e9716264fa3952a7d12a545a))
+* **resource:** Agrega archivo prueba 4 ([7ac60c0](https://github.com/scastellanos77/ntt-demo-2/commit/7ac60c0123750a749c8eedcfe06eee44455f0afc))
+
+
+### BREAKING CHANGES
+
+* **resource:** The useguidedfail  222222222222222222222222
+* **resource:** The useguidedfailure VERSION 222
+* **resource:** The useguidedfailure argument has been renamed use_guided_failure in the octopusdeploy_environment
+
 # 1.0.0 (2022-10-13)
 
 
