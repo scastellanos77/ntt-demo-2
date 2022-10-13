@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [3.0.0](https://github.com/scastellanos77/ntt-demo-2/compare/v2.0.0...v3.0.0) (2022-10-13)
+
+
+### Code Refactoring
+
+* **resource:** rename useguidedfailure argument on environment resource ([3dccf8b](https://github.com/scastellanos77/ntt-demo-2/commit/3dccf8bf4ba5598eda5a269ba76d0985b6c2dec8))
+
+
+### BREAKING CHANGES
+
+* **resource:** The useguidedfailure 3333
+
 # [2.0.0](https://github.com/scastellanos77/ntt-demo-2/compare/v1.0.0...v2.0.0) (2022-10-13)
 
 
